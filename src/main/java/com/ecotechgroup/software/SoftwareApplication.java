@@ -1,13 +1,14 @@
-package com.ecotechgroup.erpwebsite;
+package com.ecotechgroup.software;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
 @SpringBootApplication
-public class ErpWebsiteApplication {
+public class SoftwareApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ErpWebsiteApplication.class, args);
+		SpringApplication.run(SoftwareApplication.class, args);
 	}
 
 }

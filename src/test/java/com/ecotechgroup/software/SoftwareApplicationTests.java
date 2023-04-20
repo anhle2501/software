@@ -1,13 +1,15 @@
-package com.ecotechgroup.erpwebsite;
+package com.ecotechgroup.software;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ErpWebsiteApplicationTests {
+class SoftwareApplicationTests {
 
 	@Test
 	void contextLoads() {
 	}
+
+
 
 }
